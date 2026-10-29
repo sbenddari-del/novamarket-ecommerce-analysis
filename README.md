@@ -23,7 +23,7 @@ The objective of this project was to understand:
 
 ## 📊 Dashboard
 
-![NovaMarket Dashboard](images/dashboard_overview.png)
+![NovaMarket Dashboard](images/dashboard_overview.PNG))
 
 ## 🔎 Key Insights
 
